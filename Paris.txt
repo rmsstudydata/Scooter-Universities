@@ -1,0 +1,49 @@
+36	1	ENS - Paris	1,730 USD	1,153 USD
+80	2	University of Pierre and Marie Curie	217 USD	299 USD
+139	3	Paris-Sud University - Paris 11	217 USD	299 USD
+164	5	EP - Palaiseau	6,351 USD	5,822 USD
+180	6	Paris Diderot University	217 USD	295 USD
+264	9	Paris Descartes University	217 USD	295 USD
+321	13	Central School Paris	16,148 USD	11,534 USD
+322	14	Paris-Dauphine University	217 USD	295 USD
+349	16	Paris-Sorbonne University	217 USD	306 USD
+351	17	Sciences Po	11,581 USD	15,941 USD
+359	18	Paris 1 Panthéon-Sorbonne University	217 USD	295 USD
+401	19	ENS - Cachan	217 USD	306 USD
+412	20	ENPC - Marne-la-Vallée	1,153 USD	1,730 USD
+667	28	Paris 2 University	217 USD	295 USD
+762	30	ESPCI ParisTech	173 USD	865 USD
+873	31	Institut Mines Telecom - Mines Paris Tech Graduate School	1,872 USD	1,872 USD
+945	45	INSEAD		37,948 USD
+947	46	HEC School of Management	10,000 USD	41,524 USD
+949	48	ESCP Europe	21,800 USD	14,187 USD
+1397	72	Paris 3 University	217 USD	295 USD
+1411	73	Paris 13 University	217 USD	295 USD
+1541	78	Paris 8 University of Vincennes-Saint Denis	217 USD	295 USD
+1822	87	Paris East Créteil Val de Marne University	217 USD	295 USD
+1845	88	Centre of Advanced Industrial Studies
+98	Paris-La-Villette School of Architecture
+105	Paris-Belleville School of Architecture
+106	Paris-Val-de-Seine School of Architecture
+116	Institut Mines Telecom - Paris Tech	1,000 USD	1,000 USD
+119	Paris East Marne-la-Vallée University	1,000 USD	1,000 USD
+124	Paris Institute of Technology for Life, Food and Environmental Sciences	1,000 USD	1,000 USD
+128	Arts et Métiers Paris Tech	1,000 USD	1,000 USD
+129	Collège de France
+139	Paris School of Economics
+143	ESTP - Paris
+148	Groupe Esiee Paris École Supérieure d'Ingénieurs	1,000 USD	1,000 USD
+150	National Institute for Oriental Languages and Civilizations
+151	Institute of Mechanical Engineering of Paris	1,000 USD	1,000 USD
+175	PRES Sorbonne Universités
+178	Institut Mines Telecom - SudParis	1,000 USD	1,000 USD
+188	Central School of Electronics	17,500 USD	17,500 USD
+190	American University of Paris	20,000 USD	20,000 USD
+202	School of Electronics - Paris	10,000 USD	10,000 USD
+206	Paris College of Art
+213	PRES Université Sorbonne Paris Cité
+220	ICP - Catholic University of Paris	5,000 USD	5,000 USD
+230	ESIEA
+239	Louvre School
+242	École de Cinéma Paris
+246	Sorbonne Graduate Business School - IAE de Paris

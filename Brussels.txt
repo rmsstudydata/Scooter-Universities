@@ -1,0 +1,25 @@
+200	4	Free University of Brussels	1,673 USD	1,673 USD
+339	7	Free University of Brussels	4,816 USD	4,816 USD
+13	Haute Ecole Léonard de Vinci	750 USD	807 USD
+17	Haute École ICHEC
+19	Vesalius College Brussels	15,000 USD	15,000 USD
+24	Erasmus School of Brussels	7,500 USD	7,500 USD
+26	École Pratique Hautes Études Commerciales
+31	University Saint-Louis, Brussels
+33	Conservatoire royal de Bruxelles	963 USD	963 USD
+38	Haute Ecole libre de Bruxelles Ilya Prigogine	2,500 USD	2,500 USD
+39	Royal Military Academy of Brussels
+41	Sint-Lukas Brussel LUCA School of Arts Campus	1,000 USD	1,000 USD
+44	École de recherche graphique	972 USD	972 USD
+53	Haute Ecole Lucia de Brouckère
+54	Koninklijk Conservatorium Brussel en Bibliotheek
+55	Haute Ecole Francisco Ferrer	2,500 USD	2,500 USD
+57	Haute Ecole Galilée
+Saint-Louis University	577 USD	577 USD
+Odisee University College	705 USD	1,153 USD
+Haute Ecole de Bruxelles
+Haute Ecole Paul-Henri Spaak
+Institute of Saint-Luc in Brussels	980 USD	980 USD
+Académie royale des Beaux-Arts de la ville de Bruxelles - École supérieure des Arts
+École nationale supérieure des Arts visuels de La Cambre
+Haute Ecole Groupe ICHEC - ISC Saint Louis - ISFSC

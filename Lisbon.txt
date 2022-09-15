@@ -1,0 +1,15 @@
+332	2	Universidade de Lisboa	3,460 USD	6,921 USD
+435	4	New University of Lisbon	2,307 USD	2,307 USD
+710	5	Catholic University of Portugal	6,344 USD	6,344 USD
+16	Open University
+17	Polytechnical Institute of Lisbon	3,114 USD	3,576 USD
+19	Academia Militar Portugal
+22	ISPA - University Institute of Psychological, Social and Life Sciences
+32	Lusiada University of Lisbon
+44	ISG - Business and Economics School	5,000 USD	5,000 USD
+51	Universidade Autónoma de Lisboa
+62	Nursing School of Lisbon
+Technical University of Lisbon
+Autonomous University of Lisbon
+ERISA - Ribeiro Sanches School of Health
+ISCTE - University Institute of Lisbon

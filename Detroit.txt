@@ -1,0 +1,5 @@
+433	102	Wayne State University	20,000 USD	20,000 USD
+612	University of Detroit Mercy	20,000 USD	20,000 USD
+1046	Wayne County Community College District
+1724	The College for Creative Studies	20,000 USD	20,000 USD
+2448	Marygrove College	17,500 USD	17,500 USD

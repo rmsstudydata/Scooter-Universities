@@ -1,0 +1,10 @@
+11	1	Swiss Federal Institute of Technology Zürich	1,109 USD	1,109 USD
+53	3	University of Zurich	2,118 USD	1,714 USD
+417	8	University of St. Gallen	6,305 USD	6,708 USD
+15	Pädagogische Hochschule Zürich
+26	Hochschule für Wirtschaft Zürich
+30	Kalaidos University of Applied Sciences Switzerland	7,500 USD	7,500 USD
+43	SBS Swiss Business School
+62	University of Applied Sciences - Zurich
+Lorange Institute of Business Zürich
+University of Applied Sciences

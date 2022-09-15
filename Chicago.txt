@@ -1,0 +1,41 @@
+8	6	University of Chicago	48,253 USD	45,000 USD
+161	51	University of Illinois at Chicago	21,000 USD	23,000 USD
+499	110	Illinois Institute of Technology	39,000 USD	23,000 USD
+698	149	Loyola University of Chicago	35,000 USD	17,000 USD
+858	170	Rush University	20,000 USD	20,000 USD
+1033	209	DePaul University	20,000 USD	20,000 USD
+1413	302	City Colleges of Chicago
+1460	313	University of Chicago Booth School of Business
+1886	416	The School of the Art Institute of Chicago
+635	Roosevelt University	20,000 USD	20,000 USD
+637	Columbia College Chicago	20,000 USD	20,000 USD
+734	Concordia University Chicago	20,000 USD	20,000 USD
+793	Northeastern Illinois University	12,500 USD	12,500 USD
+860	Chicago State University	20,000 USD	20,000 USD
+950	National-Louis University	20,000 USD	20,000 USD
+978	School of the Art Institute of Chicago	20,000 USD	20,000 USD
+1280	The Chicago School of Professional Psychology
+1370	Adler School of Professional Psychology
+1406	North Park University	20,000 USD	20,000 USD
+1458	Saint Xavier University	20,000 USD	20,000 USD
+1883	Erikson Institute
+2126	Illinois College of Optometry
+2248	Kendall College	20,000 USD	20,000 USD
+2300	Toyota Technological Institute at Chicago
+2329	Meadville Lombard Theological School
+2371	Robert Morris College	20,000 USD	20,000 USD
+2417	Northwestern College Chicago
+2434	American Academy of Art
+2450	Resurrection University	20,000 USD	20,000 USD
+2480	MacCormac College
+2579	Catholic Theological Union
+2629	Lutheran School of Theology Chicago
+2643	Harrington College of Design	17,500 USD	17,500 USD
+2712	Fox College
+2887	VanderCook College of Music	20,000 USD	20,000 USD
+Institute for Clinical Social Work
+DeVry University Illinois
+Ellis University
+Lexington College
+Northwestern Memorial Hospital
+Saint Augustine College

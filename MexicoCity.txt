@@ -1,0 +1,56 @@
+1	Universidad Nacional Autónoma de México	Mexico City ...
+2	Instituto Politécnico Nacional	Mexico City ...
+3	Universidad Autónoma Metropolitana	Mexico City ...
+4	Universidad Iberoamericana A.C.	Mexico City ...
+5	El Colegio de México	Mexico City
+6	Instituto Tecnológico Autonómo de México	Mexico City
+7	Centro de Investigación y Docencia Económicas	Mexico City
+8	Universidad del Valle de México A.C.	Mexico City ...
+9	Universidad Panamericana	Mexico City ...
+10	Universidad La Salle	Mexico City ...
+11	Universidad Pedagógica Nacional, Mexico	Mexico City
+12	Universidad Latinoamericana S.C.	Mexico City ...
+13	Universidad Autónoma de la Ciudad de México	Mexico City ...
+14	Escuela Bancaria y Comercial	Mexico City
+15	Universidad Intercontinental	Mexico City ...
+16	Universidad del Claustro de Sor Juana	Mexico City
+17	Universidad de Londres A.C.	Mexico City
+18	Universidad Latina	Mexico City ...
+19	Centro de Estudios Superiores de San Ángel S.C.	Mexico City
+20	Universidad Pontificia de Mexico	Mexico City
+21	Universidad del Pedregal	Mexico City
+22	Universidad de la Comunicación S.C.	Cuauhtémoc
+23	Universidad Insurgentes S.C.	Iztacalco ...
+24	Universidad Simón Bolivar	Mexico City
+25	Universidad de las Américas A.C.	Mexico City
+26	Universidad Hebraica	Cuauhtémoc
+27	Universidad ICEL	Mexico City
+28	Universidad del Tepeyac	Mexico City
+29	Universidad Obrera de México	Mexico City
+30	Universidad YMCA	Mexico City ...
+31	Instituto de Especialización para Ejecutivos	Mexico City ...
+32	Universidad Marista A.C.	Mexico City
+33	Universidad del Desarrollo Empresarial y Pedagógico	Mexico City
+34	Universidad Westhill	Mexico City
+35	Universidad Motolinia del Pedregal A.C.	Mexico City
+36	Universidad Tecnológica Americana	Cuauhtémoc
+37	Universidad del Distrito Federal S.C.	Cuauhtémoc
+38	Universidad Salesiana	Mexico City
+39	Universidad de Negocios ISEC	Mexico City
+40	Instituto Tecnológico de Iztapalapa	Iztapalapa
+41	Instituto Tecnológico de Gustavo A. Madero	Gustavo A. Madero
+42	Instituto Tecnológico de Iztapalapa II	Mexico City
+43	Universidad Chapultepéc A.C.	Mexico City
+44	Centro Universitario de Integración Humanística A.C.	Naucalpan de Juárez
+45	Instituto Tecnológico de Tlalpan	San Miguel Topilejo
+46	Instituto Tecnológico de Tláhuac	Mexico City
+47	Instituto Tecnológico de Gustavo A. Madero II	Gustavo A. Madero
+48	Instituto Tecnológico de Tláhuac II	Mexico City
+49	Colegio St. John's S.C.	Mexico City ...
+50	Instituto Tecnológico de Tláhuac III	Mexico City
+51	Instituto Tecnológico de Milpa Alta	Milpa Alta
+52	Instituto Tecnológico de Álvaro Obregón	Mexico City
+53	Instituto Tecnológico de Iztapalapa III	Iztapalapa
+54	Instituto Tecnológico de Milpa Alta II	Milpa Alta
+Un	Universidad de Sahagun	Mexico City
+Un	Universidad Anáhuac México Sur	Mexico City

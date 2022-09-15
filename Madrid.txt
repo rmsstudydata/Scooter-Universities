@@ -1,0 +1,23 @@
+192	2	Autonomous University of Madrid	1,000 USD	5,000 USD
+209	4	Complutense University of Madrid
+411	10	Carlos III University of Madrid	3,000 USD	3,000 USD
+527	14	Polytechnic University of Madrid
+958	20	ESERP Business School
+981	21	National University of Distance Education
+1486	42	Open University of Madrid
+59	King Juan Carlos University	2,500 USD	2,500 USD
+69	Nebrija University
+70	Universidad Europea Madrid
+76	Camilo José Cela University
+81	Universidad Eclesiástica San Dámaso
+88	Comillas Pontifical University
+94	CEU San Pablo University
+105	Escuela Europea de Negocios Madrid
+119	Escuela de Osteopatia de Madrid
+136	Universidad Politécnica de Madrid Departamento de Proyectos Arquitectónicos
+148	Instituto Universitario General Gutiérrez Mellado UNED
+Universidad Pontificia de Salamanca - Madrid
+Escuela Universitaria de Magisterio Universidad Complutense de Madrid
+European Institute of Design, Madrid
+Royal Music Conservatoire of Madrid
+Royal School of Dramatic Art of Madrid
